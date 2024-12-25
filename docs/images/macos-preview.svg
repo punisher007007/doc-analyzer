@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- macOS Window Frame -->
+  <rect x="50" y="20" width="700" height="460" rx="10" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <!-- Window Controls -->
+  <circle cx="80" cy="45" r="6" fill="#ff5f57"/>
+  <circle cx="100" cy="45" r="6" fill="#febc2e"/>
+  <circle cx="120" cy="45" r="6" fill="#28c840"/>
+  
+  <!-- Navigation Bar -->
+  <rect x="50" y="65" width="700" height="50" fill="#1976d2"/>
+  <text x="70" y="95" fill="white" font-family="Arial" font-size="16">Document Analyzer</text>
+  <text x="600" y="95" fill="white" font-family="Arial" font-size="14">Upload</text>
+  
+  <!-- Main Content Area -->
+  <rect x="70" y="135" width="660" height="325" fill="#f5f5f5" rx="4"/>
+  
+  <!-- Upload Area -->
+  <rect x="100" y="165" width="600" height="250" fill="#ffffff" stroke="#e0e0e0" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Upload Icon and Text -->
+  <path d="M350 215 L380 215 L380 285 L420 285 L365 340 L310 285 L350 285 Z" fill="#1976d2"/>
+  <text x="320" y="370" fill="#666666" font-family="Arial" font-size="14" text-anchor="middle">Drag and drop files here</text>
+  <text x="320" y="390" fill="#666666" font-family="Arial" font-size="12" text-anchor="middle">or click to select files</text>
+  
+  <!-- Upload Button -->
+  <rect x="285" y="410" width="70" height="30" rx="4" fill="#1976d2"/>
+  <text x="320" y="430" fill="white" font-family="Arial" font-size="12" text-anchor="middle">Upload</text>
+</svg>
