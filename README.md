@@ -2,6 +2,8 @@
 
 A comprehensive document analysis tool that provides OCR, text extraction, and document summarization capabilities.
 
+![Document Analyzer on macOS](https://github.com/punisher007007/doc-analyzer/raw/main/docs/images/macos-preview.svg)
+
 ## Features
 
 - PDF document processing
@@ -73,4 +75,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details
